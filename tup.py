@@ -1,0 +1,5 @@
+tup=(123456,789123,456789,234556,789012,345678,901234,567890,456789,121234)
+print(tup)
+print(tup[1:5])
+print(sorted(tup))
+print(sorted(tup,reverse=True))

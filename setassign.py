@@ -1,0 +1,11 @@
+Names={"arif","gulshan","Vishal"}
+name={"arif"}
+#name={"pineapple"}
+#name={"apple"}
+#fruits.add("grapes")
+#fruits.remove("mango")
+#fruits.remove("pineapple")
+#print(fruits.intersection(name))
+#print(fruits.union(name))
+#print(fruits.issubset(name))
+print(fruits.difference(name))
